@@ -1,0 +1,8 @@
+models/
+*.pkl
+*.safetensors
+*.pt
+*.venv
+*anaconda_projects
+*models
+*env
